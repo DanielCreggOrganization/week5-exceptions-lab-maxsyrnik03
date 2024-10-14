@@ -405,6 +405,6 @@ Understanding these concepts is crucial for writing robust and error-resistant J
 
 - **Custom Exceptions**: By adding the custom exceptions section, you can now create exceptions that are specific to your application's domain, improving error handling and code readability.
 
-- **Simplified try-with-resources Example**: The updated `try-with-resources` section uses a custom class to demonstrate how resources can be managed without relying on Java I/O. This makes the concept accessible even without prior knowledge of I/O operations.
+- **Simplified try-with-resources Example**: The `try-with-resources` section uses a custom class to demonstrate how resources can be managed without relying on Java I/O. This makes the concept accessible even without prior knowledge of I/O operations.
 
 ---
