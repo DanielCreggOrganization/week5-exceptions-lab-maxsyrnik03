@@ -205,8 +205,6 @@ flowchart TD
 
 - **Hint**: Place the division operation inside a `try` block, handle `ArithmeticException` in the `catch` block, and in the `finally` block, print the completion message.
 
-Certainly! Here's the original version of **Section 1.6** using Java I/O to demonstrate `try-with-resources`:
-
 ---
 
 ### 1.6 try-with-resources
